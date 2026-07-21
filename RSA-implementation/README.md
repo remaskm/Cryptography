@@ -137,13 +137,3 @@ CRT speedup: 4.00x faster
   * `qInv = q⁻¹ mod p`
 
 ---
-
-## Contributions
-
-This project is open to improvements. Feel free to fork, enhance, or optimize the code further. Bug fixes and performance upgrades are welcome.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
