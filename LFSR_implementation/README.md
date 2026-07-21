@@ -109,14 +109,3 @@ Do you want to generate another key? (yes/no): no
 ```
 
 ---
-
-## Contributions
-
-Feel free to fork this repository and contribute enhancements or improvements. Issues and pull requests are welcome.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
