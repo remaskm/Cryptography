@@ -75,9 +75,3 @@ public class Main {
 3. **S-box Substitution**: Data is substituted using the S-boxes, adding confusion to the encryption.
 4. **Permutations**: Initial and final permutations are applied to the data block.
 
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository, submit issues, and create pull requests for improvements.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
