@@ -112,10 +112,3 @@ Hexadecimal: 4F9B6CFAF8B6C0E9E3436E6A7E2AC16F
 * A random key is generated if the user chooses not to manually input one.
 * The encryption and decryption process happens in real-time, with results displayed in both binary and hexadecimal formats.
 
-## Contributions
-
-Feel free to fork this repository and contribute enhancements or improvements. Issues and pull requests are welcome.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
